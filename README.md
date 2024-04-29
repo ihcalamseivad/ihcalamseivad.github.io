@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-![neymar](https://www.aljazeera.com/sports/2022/11/25/neymar-to-miss-rest-of-world-cup-group-stage-with-injury)
+![neymar](https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-24T213208Z_1677871239_UP1EIBO1HXXON_RTRMADP_3_SOCCER-WORLDCUP-BRA-SRB-REPORT.jpg?resize=770%2C513&quality=80)
 
  - [x] "github acount"
 
