@@ -3,13 +3,13 @@
 <h2>checklist</h2>
 
 
- - [x] "github account"
+ - [x] github account
 
-- [x] "new repository"
+- [x] new repository
 
-- [x] "first name 1st lvl h
+- [x] first name 1st lvl h
 
-- [x] "image"
+- [x] image
 
 - [x] link to HW webpage
 
