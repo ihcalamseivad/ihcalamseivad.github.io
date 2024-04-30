@@ -14,9 +14,10 @@
 
 - [x] "image"
 
-![neymar](https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-24T213208Z_1677871239_UP1EIBO1HXXON_RTRMADP_3_SOCCER-WORLDCUP-BRA-SRB-REPORT.jpg?resize=770%2C513&quality=80.pdf)
+![https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-24T213208Z_1677871239_UP1EIBO1HXXON_RTRMADP_3_SOCCER-WORLDCUP-BRA-SRB-REPORT.jpg?resize=770%2C513&quality=80.pdf] (neymar)
 
-(ronaldo)[https://github.com/ihcalamseivad/index.html/blob/main/index.html>
+[index.html] (ronaldo)
+
 
 
 </body>
