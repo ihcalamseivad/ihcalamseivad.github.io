@@ -2,7 +2,7 @@
 # TOP 10 SPORTS RANKING
 
 
-[HOME](https://ihcalamseivad.github.io/)
+# [HOME](https://ihcalamseivad.github.io/)
 
 
 
