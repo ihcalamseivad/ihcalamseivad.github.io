@@ -1,21 +1,44 @@
 h1 {
-  color: Black;
+  color: #ffffff;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 60px;
-  background: linear-gradient(90,);
-  
+  background: #000000 ;
 }
 
-h2{
-  color: Black;
+h2 {
+  color: #ffffff;
   text-align: center;
   font-family: "Garamond", serif;
-  font-size: 60px;
-  background: linear-gradient(90,);
-  
+  font-size: 50px;
+  background: #000000;
+}
 
-  }
+h3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 50px;
+  background: #000000;
+}
+h4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 50px;
+  background: #000000;
+}
+
+p {
+    color: #ffffff;
+    font-family: "Garamond", serif;
+    font-size: 30px;
+    margin: 30px;
+    background: #000000;
+}
+
 body {
-  background: linear-gradient (to bottom,#04c665);
+  text-align: center;
+  background: #000000;
+
 }
