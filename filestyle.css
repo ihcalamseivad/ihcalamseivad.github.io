@@ -45,7 +45,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;  
-  background-image: linear-gradient(to bottom, #ffffff, #dfe9fb, #acd8f3, #68c9de, #01b9b7);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
   position: fixed;
   bottom: 0;
   width: 100%;
