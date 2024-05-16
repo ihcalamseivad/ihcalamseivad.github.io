@@ -78,12 +78,6 @@ li a {
 }
 
 
-
-
-.active {
-  background-color: #000000;
-}
-
 li.dropdown {
   display: inline-block;
   
