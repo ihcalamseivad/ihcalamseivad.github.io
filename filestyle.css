@@ -37,6 +37,8 @@ p {
     margin: 30px;
     background: #ffffff;
     text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 img { 
   image-align: center;
@@ -76,7 +78,7 @@ li a {
 
 
 .active {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 li.dropdown {
