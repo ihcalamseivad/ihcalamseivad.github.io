@@ -63,10 +63,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active), .dropdown:hover .dropbtn {
-  background-color: #ffffff;
-}
-
 }
 
 li.dropdown {
