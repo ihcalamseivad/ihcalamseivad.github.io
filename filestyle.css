@@ -57,8 +57,10 @@ p {
   right: 0;
   width: 100%;
 }
+.navbar li{
+display: inline;
 
-li a {
+li {
   display: block;
   color: black;
   text-align: center;
