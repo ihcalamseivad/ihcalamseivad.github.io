@@ -45,7 +45,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;  
-  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  background-image: #000000;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -57,14 +57,14 @@ li {
 
 li a {
   display: block;
-  color: black;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active), .dropdown:hover .dropbtn {
-  background-color: #C8A2C8;
+  background-color: #000000;
 }
 
 }
