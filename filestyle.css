@@ -39,30 +39,39 @@ p {
     text-align: center;
 }
 
-.navbar {
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  background-color: #ffffff;
-  overflow: hidden;
-}
 
-.navbar ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;
+  overflow: hidden;  
+  background-image: linear-gradient(to bottom, #ffffff, #dfe9fb, #acd8f3, #68c9de, #01b9b7);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
-.navbar li{
-display: inline;
 
 li {
+  float: left;
+}
+
+li a {
   display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+li a:hover:not(.active), .dropdown:hover .dropbtn {
+  background-color: #C8A2C8;
+}
+
+}
+
+li.dropdown {
+  display: inline-block;
+  
 }
 
 
