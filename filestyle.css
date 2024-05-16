@@ -38,7 +38,9 @@ p {
     background: #ffffff;
     text-align: center;
 }
-
+img { 
+  text-align: center;
+}
 
 
 body {
